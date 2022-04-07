@@ -1,0 +1,3 @@
+long double check(long double x) {
+    return pow(x, 2) + sqrt(x);
+}
